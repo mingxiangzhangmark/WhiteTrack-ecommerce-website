@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/API/API.csproj",
+        "packagesPath": "/Users/mingxiangzhang/.nuget/packages/",
+        "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mingxiangzhang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj",
+        "packagesPath": "/Users/mingxiangzhang/.nuget/packages/",
+        "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mingxiangzhang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/mingxiangzhang/.nuget/packages/",
+        "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mingxiangzhang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj": {
+                "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
