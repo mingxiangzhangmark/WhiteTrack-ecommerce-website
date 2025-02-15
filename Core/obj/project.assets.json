@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj",
+      "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/Core.csproj",
+      "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/Core.csproj",
       "packagesPath": "/Users/mingxiangzhang/.nuget/packages/",
-      "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/obj/",
+      "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mingxiangzhang/.nuget/NuGet/NuGet.Config"
