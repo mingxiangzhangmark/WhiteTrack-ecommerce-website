@@ -9,3 +9,15 @@
 /Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/refint/Core.dll
 /Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.pdb
 /Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/ref/Core.dll
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/bin/Debug/net9.0/Core.deps.json
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/bin/Debug/net9.0/Core.dll
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/bin/Debug/net9.0/Core.pdb
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.sourcelink.json
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.dll
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/Core.pdb
+/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Core/obj/Debug/net9.0/ref/Core.dll
