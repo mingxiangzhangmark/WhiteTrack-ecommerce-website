@@ -4721,11 +4721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/API/API.csproj",
+      "projectUniqueName": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/API/API.csproj",
+      "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/API/API.csproj",
       "packagesPath": "/Users/mingxiangzhang/.nuget/packages/",
-      "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/API/obj/",
+      "outputPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mingxiangzhang/.nuget/NuGet/NuGet.Config"
@@ -4740,8 +4740,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/Infrastructure/Infrastructure.csproj"
+            "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/Infrastructure/Infrastructure.csproj"
             }
           }
         }

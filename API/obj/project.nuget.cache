@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i8XXJ23Zq9A=",
+  "dgSpecHash": "nhssJOFr4do=",
   "success": true,
-  "projectFilePath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack/WhiteTrack-ecommerce/API/API.csproj",
+  "projectFilePath": "/Users/mingxiangzhang/Projects/Snowshop-ecommerce-dotnet-angular/whitetrack-ecommerce/WhiteTrack-ecommerce-website/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/mingxiangzhang/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/mingxiangzhang/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
